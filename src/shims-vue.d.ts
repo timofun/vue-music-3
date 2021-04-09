@@ -6,3 +6,5 @@ declare module '*.vue' {
 }
 
 declare module '@better-scroll/observe-dom'
+
+declare module 'vue3-lazy'
